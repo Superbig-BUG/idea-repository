@@ -15,4 +15,9 @@ public class Test {
     public void test1(){
         System.out.println("haha");
     }
+
+    @org.junit.Test
+    public void test2(){
+        System.out.println("hehe");
+    }
 }
