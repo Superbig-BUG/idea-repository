@@ -10,4 +10,9 @@ public class Test {
     public void test(){
         System.out.println("hello world");
     }
+
+    @org.junit.Test
+    public void test1(){
+        System.out.println("haha");
+    }
 }
