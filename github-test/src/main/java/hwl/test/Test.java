@@ -12,6 +12,7 @@ public class Test {
         int b = 1;
         int a = b + 1;
         System.out.println(a);
+        System.out.println("q");
     }
 
     @org.junit.Test
