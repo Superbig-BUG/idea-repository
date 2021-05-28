@@ -16,8 +16,15 @@ public class Test {
         System.out.println("haha");
     }
 
+
+
     @org.junit.Test
     public void test2(){
+        System.out.println("hehe");
+    }
+
+    @org.junit.Test
+    public void test3(){
         System.out.println("嘿嘿");
     }
 }
