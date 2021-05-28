@@ -10,4 +10,14 @@ public class Test {
     public void test(){
         System.out.println("hello world");
     }
+
+    @org.junit.Test
+    public void test1(){
+        System.out.println("haha");
+    }
+
+    @org.junit.Test
+    public void test2(){
+        System.out.println("嘿嘿");
+    }
 }
