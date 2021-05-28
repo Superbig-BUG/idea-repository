@@ -9,14 +9,15 @@ public class Test {
     @org.junit.Test
     public void test(){
         System.out.println("hello world");
+        int b = 1;
+        int a = b + 1;
+        System.out.println(a);
     }
 
     @org.junit.Test
     public void test1(){
         System.out.println("haha");
     }
-
-
 
     @org.junit.Test
     public void test2(){
