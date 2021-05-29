@@ -1,5 +1,8 @@
 package hwl.test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author along吖
  * @create 2021-05-28 20:15
@@ -13,6 +16,8 @@ public class Test {
         int a = b + 1;
         System.out.println(a);
         System.out.println("q");
+
+        List<Object> list = new ArrayList<Object>();
     }
 
     @org.junit.Test
